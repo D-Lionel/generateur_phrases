@@ -12,7 +12,7 @@ namespace generateur_phrases
             int i = rand.Next(t.Length);
 
             return t[i];
-        }
+        } 
 
         static void Main(string[] args)
         {
