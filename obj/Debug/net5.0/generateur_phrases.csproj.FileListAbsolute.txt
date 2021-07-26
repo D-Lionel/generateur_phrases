@@ -1,0 +1,16 @@
+F:\Udemy\CSharp\generateur_phrases\generateur_phrases\bin\Debug\net5.0\generateur_phrases.exe
+F:\Udemy\CSharp\generateur_phrases\generateur_phrases\bin\Debug\net5.0\generateur_phrases.deps.json
+F:\Udemy\CSharp\generateur_phrases\generateur_phrases\bin\Debug\net5.0\generateur_phrases.runtimeconfig.json
+F:\Udemy\CSharp\generateur_phrases\generateur_phrases\bin\Debug\net5.0\generateur_phrases.runtimeconfig.dev.json
+F:\Udemy\CSharp\generateur_phrases\generateur_phrases\bin\Debug\net5.0\generateur_phrases.dll
+F:\Udemy\CSharp\generateur_phrases\generateur_phrases\bin\Debug\net5.0\ref\generateur_phrases.dll
+F:\Udemy\CSharp\generateur_phrases\generateur_phrases\bin\Debug\net5.0\generateur_phrases.pdb
+F:\Udemy\CSharp\generateur_phrases\generateur_phrases\obj\Debug\net5.0\generateur_phrases.csproj.AssemblyReference.cache
+F:\Udemy\CSharp\generateur_phrases\generateur_phrases\obj\Debug\net5.0\generateur_phrases.GeneratedMSBuildEditorConfig.editorconfig
+F:\Udemy\CSharp\generateur_phrases\generateur_phrases\obj\Debug\net5.0\generateur_phrases.AssemblyInfoInputs.cache
+F:\Udemy\CSharp\generateur_phrases\generateur_phrases\obj\Debug\net5.0\generateur_phrases.AssemblyInfo.cs
+F:\Udemy\CSharp\generateur_phrases\generateur_phrases\obj\Debug\net5.0\generateur_phrases.csproj.CoreCompileInputs.cache
+F:\Udemy\CSharp\generateur_phrases\generateur_phrases\obj\Debug\net5.0\generateur_phrases.dll
+F:\Udemy\CSharp\generateur_phrases\generateur_phrases\obj\Debug\net5.0\ref\generateur_phrases.dll
+F:\Udemy\CSharp\generateur_phrases\generateur_phrases\obj\Debug\net5.0\generateur_phrases.pdb
+F:\Udemy\CSharp\generateur_phrases\generateur_phrases\obj\Debug\net5.0\generateur_phrases.genruntimeconfig.cache
